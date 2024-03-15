@@ -1,0 +1,17 @@
+.DS_Store
+.DS_Store?
+._.DS_Store
+node_modules
+npm-debug.log
+appium.log
+results
+*/app/*
+error-shots
+.vscode
+_results_
+.idea
+*.apk
+*.app
+templateEnv/*/default.env
+.tmp/*
+/.tmp2/
